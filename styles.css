@@ -85,6 +85,10 @@ h2{
 }
 footer{
   text-align: center;
+  font-family: var(--font-poppins);
+}
+a{
+  text-decoration: none;
 }
 @media(max-width: 768px){
   main{
